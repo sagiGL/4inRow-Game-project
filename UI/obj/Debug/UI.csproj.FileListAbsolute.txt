@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\bin\Debug\Project11.exe.config
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\bin\Debug\Project11.exe
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\bin\Debug\Project11.pdb
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\bin\Debug\GameLogic.dll
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\bin\Debug\GameLogic.pdb
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\obj\Debug\UI.GameSetting.resources
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\obj\Debug\Project11.exe
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\UI\obj\Debug\Project11.pdb

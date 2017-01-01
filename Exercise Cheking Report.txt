@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 201580990 - Idan Shuraty
+Second Student Details: 305746588 - Sagi Gleizer
+Delivery Date.........: 16 - June - 2016
+Delivered In Delay....: Yes (3 Days)
+Delay Reason..........: <Delay Reason> Miluim + Computer gone out of function
+Visual Studio Version.: 2015
+Comments..............: in the style crop i couldnt understand what is SA1407 warnings ,Have fun reading.
+=======================End Exercise Checking Report=========================

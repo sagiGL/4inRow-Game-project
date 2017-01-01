@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\GameLogic\bin\Debug\GameLogic.dll.config
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\GameLogic\bin\Debug\GameLogic.dll
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\GameLogic\bin\Debug\GameLogic.pdb
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\GameLogic\obj\Debug\GameLogic.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\GameLogic\obj\Debug\GameLogic.dll
+\\Mac\Home\Desktop\B16 Ex05 SagiGleizer 305746588 IdanShuraty 201580990\GameLogic\obj\Debug\GameLogic.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{99ADD625-2E7D-47CA-B4D8-10846A804B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{9AE7F73E-EE12-4CAE-BF53-373FE40A3938}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52A8DB82-A8BF-4748-B190-68D91F827CBB}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise Cheking Report.txt = Exercise Cheking Report.txt
+		Settings.StyleCop = Settings.StyleCop
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99ADD625-2E7D-47CA-B4D8-10846A804B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ADD625-2E7D-47CA-B4D8-10846A804B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ADD625-2E7D-47CA-B4D8-10846A804B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ADD625-2E7D-47CA-B4D8-10846A804B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE7F73E-EE12-4CAE-BF53-373FE40A3938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE7F73E-EE12-4CAE-BF53-373FE40A3938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE7F73E-EE12-4CAE-BF53-373FE40A3938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE7F73E-EE12-4CAE-BF53-373FE40A3938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
